@@ -1,0 +1,28 @@
+.images {
+  width: 200px;
+  height:130px;
+}
+
+div {
+  
+  margin: 1em;
+}
+
+h1{
+  color: aqua;
+}
+
+main {
+  display: inline-flex;
+  flex-direction:row-reverse ;
+  justify-content: space-around;
+  align-items:center;
+  margin: 10px;
+  flex-flow: row;
+  flex-wrap: wrap-reverse;
+  margin-top: 10px;
+  font: bolder  1em sans-serif;
+  color: rgb(79, 24, 230);
+  
+ 
+ }
